@@ -194,6 +194,16 @@ h3 {
   transform: translateY(-6px);
 }
 
+.gallery-card h3 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.gallery-card:hover h3 {
+  transform: translateY(-4px);
+  color: #f76c6c;
+}
+
+
 /* ====== SERVICE CARDS ====== */
 .service-cards {
   display: grid;
