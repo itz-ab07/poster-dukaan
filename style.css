@@ -1,4 +1,4 @@
-/* ====== GLOBAL STYLES ====== */
+/* GLOBAL STYLES */
 * {
   margin: 0;
   padding: 0;
@@ -51,7 +51,7 @@ img {
   background-color: #ff4e4e;
 }
 
-/* ====== NAVBAR ====== */
+/* NAVBAR */
 .navbar {
   background-color: #fff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
@@ -100,7 +100,7 @@ img {
   color: #f76c6c;
 }
 
-/* ====== HERO ====== */
+/* HERO */
 .hero {
   text-align: center;
   padding: 90px 20px 60px;
@@ -120,7 +120,7 @@ img {
   color: #555;
 }
 
-/* ====== SECTION GENERAL ====== */
+/* SECTION GENERAL */
 section {
   padding: 60px 0;
 }
@@ -137,7 +137,7 @@ h3 {
   color: #2e2e2e;
 }
 
-/* ====== FEATURED BANNER ====== */
+/* FEATURED BANNER */
 .featured-banner {
   background-color: #fff0f0;
   padding: 60px 20px;
@@ -173,7 +173,7 @@ h3 {
 }
 
 
-/* ====== GALLERY ====== */
+/* GALLERY */
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -204,7 +204,7 @@ h3 {
 }
 
 
-/* ====== SERVICE CARDS ====== */
+/* SERVICE CARDS */
 .service-cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -220,27 +220,18 @@ h3 {
   transition: all 0.3s ease;
 }
 
-/* .service-card img{
-  height: 250px;
-  width: 98%;
-} */
-
 .service-card:hover {
   background: #ffe5e0;
   transform: scale(1.04);
 }
 
-/* ====== ABOUT SPLIT SECTION ====== */
+/* ABOUT SPLIT SECTION */
 .split-layout {
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
   align-items: center;
 }
-
-/* .about-image {
-  flex: 1 1 300px;
-} */
 
 .about-image img {
   flex: 1 1 400px;
@@ -280,7 +271,7 @@ h3 {
   font-size: 14px;
 }
 
-/* ====== CONTACT SECTION ====== */
+/* CONTACT SECTION */
 .contact-grid {
   display: flex;
   flex-wrap: wrap;
@@ -340,7 +331,7 @@ h3 {
   text-decoration: underline;
 }
 
-/* ====== FOOTER ====== */
+/* FOOTER */
 .site-footer {
   text-align: center;
   padding: 2rem 0;
@@ -351,7 +342,7 @@ h3 {
   margin-top: 4rem;
 }
 
-/* ====== AOS Animations ====== */
+/* AOS Animations */
 [data-aos] {
   opacity: 0;
   transition-property: transform, opacity;
@@ -361,7 +352,7 @@ h3 {
   opacity: 1;
 }
 
-/* ====== MEDIA QUERIES ====== */
+/* MEDIA QUERIES */
 @media (max-width: 768px) {
   .split-layout {
     flex-direction: column;
