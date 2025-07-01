@@ -1,6 +1,6 @@
 # Posters Dukaan 💫
 
-A modern, multi-page designer portfolio website built for **Apekshaa Yadav**, a creative visual designer and freelance artist behind the Instagram page [@posters_dukaan.nco](https://www.instagram.com/posters_dukaan.nco). This site showcases her services, gallery, design philosophy, and contact details — wrapped in a clean, elegant UI.
+A modern, multi-page designer portfolio website built for **Apekshaa Yadav**, a creative visual designer and freelance artist behind the Instagram page [@posters_dukaan.nco](https://www.instagram.com/posters_dukaan.nco). This site showcases her services, gallery, design philosophy, and contact details all wrapped in a clean and elegant UI.
 
 ---
 
