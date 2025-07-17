@@ -120,16 +120,16 @@ img {
   color: #555;
 }
 
-.shine {
-  display: inline;
-  font: 'Poppins', sans-serif;
-  font: 48px;
-}
-
 .you {
   display: inline;
-  font: 'Cinzel', serif;
-  font: 48px;
+  font-family: 'Cinzel', serif;
+  font-size: 48px;
+}
+
+.shine {
+  display: inline;
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
 }
 
 /* SECTION GENERAL */
