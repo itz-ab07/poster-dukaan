@@ -225,6 +225,10 @@ h3 {
   transform: scale(1.04);
 }
 
+.cta_p {
+  padding:4px;
+}
+
 /* ABOUT SPLIT SECTION */
 .split-layout {
   display: flex;
