@@ -122,11 +122,13 @@ img {
 
 .shine {
   display: inline;
+  font: 'Poppins', sans-serif;
+  font: 48px;
 }
 
 .you {
   display: inline;
-  font: 'Poppins', sans-serif;
+  font: 'Cinzel', serif;
   font: 48px;
 }
 
